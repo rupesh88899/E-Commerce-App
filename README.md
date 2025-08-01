@@ -50,6 +50,7 @@ A modern and responsive Flutter application for showcasing products with cart fu
 ---
 
 ## 🧱 Project Structure
+```
 lib/
 ├── main.dart
 ├── models/
@@ -66,8 +67,8 @@ lib/
 │ ├── product_card.dart
 │ ├── category_tile.dart
 │ ├── banner_slider.dart
-│ └── main_wrapper.dart
-
+│ └── main_wrapper.dart 
+```
 ## 📦 Dependencies
 
 | Package             | Purpose                                  |
