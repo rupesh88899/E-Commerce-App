@@ -6,7 +6,7 @@ A modern and responsive Flutter application for showcasing products with cart fu
 
 ## 📱 UI Preview
 
-### 🔹 Splash & Home
+### 🔹 Icon & Splash & Home 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b68f7a44-6f74-465a-9b08-03520a78251f" alt="App Icon" height="400px" />
@@ -14,7 +14,7 @@ A modern and responsive Flutter application for showcasing products with cart fu
   <img src="https://github.com/user-attachments/assets/b703169a-b4a0-4357-8687-ad020c20e0b6" alt="Home Page" height="400px" />
 </p>
 
-### 🔹 Product & Cart
+### 🔹 Product & Cart Icon & Cart page
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a34c6104-d5e4-4642-aa5a-efb7e52e5773" alt="Product Detail" height="400px" />
